@@ -6,7 +6,7 @@
   background-color: #ffffff;
 }
 
-.lane-page .seo {
+.lane-page .CEO {
   height: 50px;
   background-color: #2a336b;
   display: flex;
@@ -106,7 +106,7 @@
 }
 
 
-.lane-page .servidor-p-blico-uma {
+.lane-page .servidor {
   position: relative;
   width: fit-content;
   text-shadow: 0px 4px 4px #00000040;
@@ -211,7 +211,7 @@
 }
 
 
-.lane-page .seo-2 {
+.lane-page .CEO-2 {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -255,14 +255,14 @@
 }
 
 @media (max-width: 768px) {
-  .lane-page .seo-2 {
+  .lane-page .CEO-2 {
     flex-direction: column;
     gap: clamp(10px, 5vw, 20px);
   }
 }
 
 
-.lane-page .seo-3 {
+.lane-page .CEO-3 {
   padding: 50px 100px 10px;
   flex: 0 0 auto;
   background: linear-gradient(
@@ -287,7 +287,7 @@
   flex: 0 0 auto;
 }
 
-.lane-page .seo-4 {
+.lane-page .CEO-4 {
   gap: 42px;
   padding: 20px 100px 120px;
   flex: 0 0 auto;
@@ -337,7 +337,7 @@
   line-height: normal;
 }
 
-.lane-page .seo-5 {
+.lane-page .CEO-5 {
   padding: 50px 100px 10px;
   flex: 0 0 auto;
   background-color: #5c6edf;
@@ -359,7 +359,7 @@
   flex: 0 0 auto;
 }
 
-.lane-page .seo-6 {
+.lane-page .CEO-6 {
   gap: 60px;
   padding: 120px 100px;
   background: linear-gradient(
@@ -469,7 +469,7 @@
 }
 
 
-.lane-page .seo-7 {
+.lane-page .CEO-7 {
   padding: 10px 100px;
   flex: 0 0 auto;
   background-color: #323c79;
@@ -495,7 +495,7 @@
   line-height: normal;
 }
 
-.lane-page .seo-8 {
+.lane-page .CEO-8 {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -553,7 +553,7 @@
   object-fit: contain;
 }
 
-.lane-page .seo-9 {
+.lane-page .CEO-9 {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -596,7 +596,7 @@
   line-height: normal;
 }
 
-.lane-page .rua-elmano-soares-wrapper {
+.lane-page .endereco-wrapper {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -609,7 +609,7 @@
   height: auto;
 }
 
-.lane-page .rua-elmano-soares {
+.lane-page .endereco {
   position: relative;
   width: fit-content;
   font-family: "Inter-Light", Helvetica;
@@ -622,7 +622,7 @@
 }
 
 @media (max-width: 768px) {
-  .lane-page .seo-9 {
+  .lane-page .CEO-9 {
     flex-direction: column;
   }
 }
