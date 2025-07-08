@@ -27,5 +27,5 @@ Escopo e Prototipagem com descrição a definir...
 
 #### Ferramentas
 
-- Design:
-- Desenvolvimento:
+- Design: Figma
+- Desenvolvimento: VS Code
